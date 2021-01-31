@@ -1,2 +1,2 @@
 # UTN_ejercicios01_C
-Problemáticas básicas resueltas con c/c++
+Calculos básicos resueltos con C++, previamente analizados y resueltos con pseint.
